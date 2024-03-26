@@ -3,7 +3,9 @@ Online rulebook resource for the Lorien Trust
 
 A collection of JSON files listing core rules and descriptions that can be utilised in your own projects. 
 
-Also included are a number of tools that can be implemented in your own web applications.
+Lorien Trust rules version is tagged on each JSON file.
+
+*Coming soon are a number of tools that can be implemented in your own web applications.*
 
 ------
 
