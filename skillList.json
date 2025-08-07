@@ -38,64 +38,109 @@
             "description": "<b>Your character has the ability to throw a single missile (e.g. a rock or knife) in combat using your primary hand.</b> Please note that thrown objects need to be made to comply with the usability standard for thrown objects and cannot be used as melee weapons (see Weapon Guidelines). Weapons intended for use in hand-to-hand (melee) combat must not be thrown."
         },
         {
-            "name": "Healing",
+            "name": "Healing 1",
             "section": "Magic Skills",
+            "grouped": "Healing",
+            "linked": [
+                "Healing 2"
+            ],
             "order": 0,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
         {
-            "name": "Healing",
+            "name": "Healing 2",
             "section": "Magic Skills",
+            "grouped": "Healing",
+            "linked":[
+                "Healing 1",
+                "Incantation 2",
+                "Spellcasting 2"
+            ],
             "order": 0,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
                 {
-            "name": "Incantation",
+            "name": "Incantation 1",
             "section": "Magic Skills",
+            "grouped": "Incantation",
+            "linked": [
+                "Incantation 2"
+            ],
             "order": 1,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
         {
-            "name": "Incantation",
+            "name": "Incantation 2",
             "section": "Magic Skills",
+            "grouped": "Incantation",
+            "linked":[
+                "Incantation 1",
+                "Healing 2",
+                "Spellcasting 2"
+            ],
             "order": 1,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
                 {
-            "name": "Spellcasting",
+            "name": "Spellcasting 1",
             "section": "Magic Skills",
+            "grouped": "Spellcasting",
+            "linked":[
+                "Spellcasting 2"
+            ],
             "order": 2,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
         {
-            "name": "Spellcasting",
+            "name": "Spellcasting 2",
             "section": "Magic Skills",
+            "grouped": "Spellcasting",
+            "linked":[
+                "Spellcasting 1",
+                "Incantation 2",
+                "Healing 2"
+            ],
             "order": 2,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
         },
         {
-            "name": "Ritual Magic",
+            "name": "Ritual Magic 1",
             "section":"Magic Skills",
+            "grouped": "Ritual Magic",
+            "linked":[
+                "Ritual Magic 2",
+                "Ritual Magic 3"
+            ],
             "order": 3,
             "cost": 2,
             "description": "<b>You cannot buy this skill unless you already have some form of casting ability. All Ritualists can contribute to a single ritual per day in the same way a character with Contribute to Ritualist (see below). A ritualist contributes one point of ritual power to the ritual.</b> This contribution (frequency and power) may not be increased through any means. If your character has Ritual Magic and Contribute to Ritualist it should be made clear which you are using on your ritual paperwork. In addition, a character with Ritual Magic may perform Rites and Rituals as detailed below: <ul><li><b>Level 1 Ritualist</b> may add the Transport Rite Spell to their available spell list(s). </li><li><b>Level 2 Ritualist</b> may add the Transport Rite Spell to their available spell list(s) and perform 1 Ritual per event which will provide 10 points of power in any ritual they lead.</li><li><b>Level 3 Ritualist</b> may add the Transport Rite Spell and Network Attunement Rites to their available spell list(s) and perform 1 ritual per day which will provide 10 points of power in any ritual they lead. Network attunement also requires a level 2 casting ability (any type) to perform.</li></ul>"
         },
         {
-            "name": "Ritual Magic",
+            "name": "Ritual Magic 2",
             "section":"Magic Skills",
+            "grouped": "Ritual Magic",
+            "linked":[
+                "Ritual Magic 1",
+                "Ritual Magic 3"
+            ],
             "order": 3,
             "cost": 4,
             "description": "<b>You cannot buy this skill unless you already have some form of casting ability. All Ritualists can contribute to a single ritual per day in the same way a character with Contribute to Ritualist (see below). A ritualist contributes one point of ritual power to the ritual.</b> This contribution (frequency and power) may not be increased through any means. If your character has Ritual Magic and Contribute to Ritualist it should be made clear which you are using on your ritual paperwork. In addition, a character with Ritual Magic may perform Rites and Rituals as detailed below: <ul><li><b>Level 1 Ritualist</b> may add the Transport Rite Spell to their available spell list(s). </li><li><b>Level 2 Ritualist</b> may add the Transport Rite Spell to their available spell list(s) and perform 1 Ritual per event which will provide 10 points of power in any ritual they lead.</li><li><b>Level 3 Ritualist</b> may add the Transport Rite Spell and Network Attunement Rites to their available spell list(s) and perform 1 ritual per day which will provide 10 points of power in any ritual they lead. Network attunement also requires a level 2 casting ability (any type) to perform.</li></ul>"
         },
         {
-            "name": "Ritual Magic",
+            "name": "Ritual Magic 3",
             "section":"Magic Skills",
+            "grouped": "Ritual Magic",
+            "linked":[
+                "Ritual Magic 1",
+                "Ritual Magic 2"
+            ],
             "order": 3,
             "cost": 6,
             "description": "<b>You cannot buy this skill unless you already have some form of casting ability. All Ritualists can contribute to a single ritual per day in the same way a character with Contribute to Ritualist (see below). A ritualist contributes one point of ritual power to the ritual.</b> This contribution (frequency and power) may not be increased through any means. If your character has Ritual Magic and Contribute to Ritualist it should be made clear which you are using on your ritual paperwork. In addition, a character with Ritual Magic may perform Rites and Rituals as detailed below: <ul><li><b>Level 1 Ritualist</b> may add the Transport Rite Spell to their available spell list(s). </li><li><b>Level 2 Ritualist</b> may add the Transport Rite Spell to their available spell list(s) and perform 1 Ritual per event which will provide 10 points of power in any ritual they lead.</li><li><b>Level 3 Ritualist</b> may add the Transport Rite Spell and Network Attunement Rites to their available spell list(s) and perform 1 ritual per day which will provide 10 points of power in any ritual they lead. Network attunement also requires a level 2 casting ability (any type) to perform.</li></ul>"
@@ -108,29 +153,53 @@
             "description": "<b>Your character can contribute one point of ritual power to the Ritual.</b> A contributor may contribute to one ritual per day. You do not need any other magical ability to buy this skill. The number of times that a character can contribute per day and the power that is donated may be increased with Occupational Skills, Alchemical Potions and items found ingame. When contributing to a ritual a ritualist should state if they are contributing as a Ritualist or as a Contributor (see Ritual Magic above)."
         },
         {
-            "name": "+ Base Power",
+            "name": "+ Base Power 4",
             "section":"Magic Skills",
+            "grouped": "+ Base Power",
+            "linked":[
+                "+ Base Power 8",
+                "+ Base Power 12",
+                "+ Base Power 16"
+            ],
             "order": 5,
             "cost": 2,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
         },
         {
-            "name": "+ Base Power",
+            "name": "+ Base Power 8",
             "section":"Magic Skills",
+            "grouped": "+ Base Power",
+            "linked":[
+                "+ Base Power 4",
+                "+ Base Power 12",
+                "+ Base Power 16"
+            ],
             "order": 5,
             "cost": 4,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
         },
         {
-            "name": "+ Base Power",
+            "name": "+ Base Power 12",
             "section":"Magic Skills",
+            "grouped": "+ Base Power",
+            "linked":[
+                "+ Base Power 4",
+                "+ Base Power 8",
+                "+ Base Power 16"
+            ],
             "order": 5,
             "cost": 6,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
         },
         {
-            "name": "+ Base Power",
+            "name": "+ Base Power 16",
             "section":"Magic Skills",
+            "grouped": "+ Base Power",
+            "linked":[
+                "+ Base Power 4",
+                "+ Base Power 8",
+                "+ Base Power 12"
+            ],
             "order": 5,
             "cost": 8,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
@@ -143,15 +212,23 @@
             "description": "<b>This skill allows for the activation of certain items. With your outstretched arm, the palm of your casting hand must be approx. 1ft from the item you are attempting to invoke, and you must <i>concentrate</i> for 10 seconds. Armour does not restrict invocation because the effect and/or power resides within the invoked item and therefore is not disrupted by any armour worn by the invoker. To invoke an item, the invoker must use a suitable IC vocal, or in the case of scrolls and glyphs, must read the scroll or glyph. Chant effects generated by invocable items require the invoker to maintain the chant.</b> If you are unsure whether you are able to invoke an item, please check with a Referee, Marshal or Game Control."
         },
         {
-            "name": "Body Development",
+            "name": "Body Development 1",
             "section":"Armour Skills",
+            "grouped": "Body Development",
+            "linked":[
+                "Body Development 2"
+            ],
             "order": 1,
             "cost": 4,
             "description": "<b><u>Body Development 1</u></b> <b>Characters with this skill have 2 Base LHV</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1..<br /> <b><u>Body Development 2</u></b> <b>Characters with this skill have 3 Base LHV.</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1."
         },
         {
-            "name": "Body Development",
+            "name": "Body Development 2",
             "section":"Armour Skills",
+            "grouped": "Body Development",
+            "linked":[
+                "Body Development 1"
+            ],
             "order": 1,
             "cost": 8,
             "description": "<b><u>Body Development 1</u></b> <b>Characters with this skill have 2 Base LHV</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1..<br /> <b><u>Body Development 2</u></b> <b>Characters with this skill have 3 Base LHV.</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1."
@@ -159,6 +236,11 @@
         {
             "name": "Light Armour Use",
             "section":"Armour Skills",
+            "grouped": "Armour Use",
+            "linked":[
+                "Medium Armour Use",
+                "Heavy Armour Use"
+            ],
             "order": 2,
             "cost": 2,
             "description": "<b>Light Armour has <span class=\"updated\">a base AV of 1.</span></b> Light Armour is any flexible material that is either thick enough or tough enough to resist a blow. Thin leather, heavily quilted or padded material and skinned furs are examples of Light Armour. With this skill, you gain the ability to wear and repair Light Armour."
@@ -166,6 +248,11 @@
         {
             "name": "Medium Armour Use",
             "section":"Armour Skills",
+            "grouped": "Armour Use",
+            "linked":[
+                "Light Armour Use",
+                "Heavy Armour Use"
+            ],
             "order": 3,
             "cost": 3,
             "description": "<b>Medium armour has <span class=\"updated\">a base AV of 2.</span></b> Medium armour is either semi-rigid material or material that would normally be light armour with rigid supports or rigid additions over at least 50% of the surface. Thick leather and plated leather are examples of medium armour. With this skill, you gain the ability to wear and repair light or medium armour. A character wearing Medium Armour cannot cast Ranged effects."
@@ -173,6 +260,11 @@
         {
             "name": "Heavy Armour Use",
             "section":"Armour Skills",
+            "grouped": "Armour Use",
+            "linked":[
+                "Light Armour Use",
+                "Medium Armour Use"
+            ],
             "order": 4,
             "cost": 4,
             "description": "<b>Heavy armour has <span class=\"updated\">a base AV of 3.</span></b> Heavy armour is either completely rigid, made 100% from metal (or a convincing representation of metal) or light armour with rigid material covering at least 90% of the surface. Chain or plate mail and cuirboilli are examples of heavy armour. With this skill, you gain the ability to repair and wear light, medium or heavy armour. A character wearing Heavy Armour cannot cast Ranged or Mass effects."
@@ -222,6 +314,10 @@
         {
             "name": "Triage",
             "section":"Knowledge Skills",
+            "grouped": "Triage",
+            "linked":[
+                "Triage (Advanced)"
+            ],
             "order": 7,
             "cost": 1,
             "description": "<span class=\"updated\"><b>Your character can spend 1 minute of role-played action within Proximity distance (1ft) of a limb location (not Torso or Head) and remove a mortal wound on that limb (raising it to 0LHV).</b> This skill will not work on monsters with total body hits, or creatures with anything other than a living pattern. This skill has no effect on a person suffering from Disease, Decay or on a location with a Fatal wound. Requires Concentration to use</span>"
@@ -229,7 +325,11 @@
         {
             "name": "Triage (Advanced)",
             "section":"Knowledge Skills",
-            "order": 8,
+            "grouped": "Triage",
+            "linked":[
+                "Triage"
+            ],
+            "order": 7,
             "cost": 2,
             "description": "<span class=\"updated\"><b>Your character can spend 1 minute of role-played action within Proximity distance (1ft) of a body location to remove a mortal wound on that location (raising it to 0LHV). In addition, if all of the targets locations are at 0LHV, a character with the Triage (Advanced) skill may spend 5 minutes of role-played action within Proximity distance (1ft) of the target, on completion all of the targets locations will be simultaneously raised to 1LHV and will become Debilitated (10 mins).</b> This skill will not work on monsters with total body hits, or creatures with anything other than a living pattern. This skill also enables the character to identify other effects on the target (See Combat, Identifying Wounds). This skill has no effect on a person suffering from Disease, Decay or on a location with a Fatal wound. Requires Concentration to use</span>"
         },
