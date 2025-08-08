@@ -218,6 +218,7 @@
                 "18"
             ],
             "restricted": true,
+            "customValue": true,
             "priority": 5,
             "description": "Requirements to use: Lammie or Loresheet. Includes the following occupational skills and abilities: Acticate <X> Item, Immune to Lethal Alchemical Venoms, Tutor, Cursing Word"
         },
@@ -230,6 +231,7 @@
             ],
             "tier": 1,
             "restricted": true,
+            "custom-value": true,
             "priority": 5,
             "description": "The character has sworn a binding Oath to support the Faction or Guild <X>. This Occupational Skill can be only be gained with permission from the relevant Faction or Guild and may be removed by the Oathbreaker Curse. This skill may only be purchased at a main Lorien Trust event and does not count towards your 4 skill purchases permitted per year. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
         },
@@ -245,6 +247,7 @@
                 "17"
             ],
             "restricted": true,
+            "custom-value": true,
             "priority": 5,
             "description": "The character can activate items for the Faction or Guild <X>. This Occupational Skill can be only be gained with permission from the relevant Faction or Guild and they may remove it at any time."
         },
@@ -315,6 +318,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill allows the character to gain extra income and represents the character's profession, <X>. The player can collect an extra 1 Gold from Game Control once per Gathering. This skill not count towards your 4 skills permitted per year. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
         },
@@ -453,6 +457,7 @@
             ],
             "tier": 1,
             "restricted": true,
+            "custom-value": true,
             "priority": 4,
             "description": "Requirements to use: Awakened Loresheet. An Awakened creature is a type of Special Creature that is an evolution of a Base Race (Dwarf for example). These creatures still remain linked to their Base Race for the purposes of items and effects that can target them (Dwarf Bane etc.) and for detection/discern purposes. To become an Awakened, a Awakened Creature of the correct type must perform a Rite of Creation to align your pattern and unlock your potential. Once this rite is complete you will receive an appropriate Awakened Loresheet which details any Race Specific Abilities or Rules as well as Occupational skills that are not normally available or can be purchased at a discount. Becoming an Awakened Creature prevents the character becoming an Essence Creature, Summonable Creature or any other kind of Special Creature (Generally created in a Ritual). Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets). Awakening will count as one of your four skill buys for the year but will only replace the Reace description on the front of your character card."
         },
@@ -532,6 +537,7 @@
             ],
             "tier": 3,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "Requirements to use: Lammie or Loresheet. Each level of this skill requires and replaces the previous level. Once a day per level of the Occupational Skill (Item cards or Power req.), the character may create the Beguile effect after 5 minutes of meaningful two-way conversation with their intended target. This effect cannot be countered and the OOC call is 'innate beguile'. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
         },
@@ -1277,6 +1283,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill will replace a lower level of the Druid <X> Occupational Skill. The character will gain the Druid loresheet and may buy Occupational Skill listed there up to the stated Tier. To gain this skill a character must fulfil the IC requirements listed on the Druid loresheet. A Druid is a type of Essence Creature. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
         },
@@ -1388,6 +1395,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": " Requirements to use: Lammie or Loresheet. Each level of this skill requires and replaces the previous level. The character may create an innate Mass Fear effect once a day per level of the Occupational Skill (Item cards or Power req.), which cannot be countered. The vocals are 'innate mass fear'. Mass Fear may not be used on large groups or in mass combat without consulting a Referee or Marshal for safety reasons. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
         },
@@ -1464,6 +1472,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "A character with this skill may request a general knowledge information sheet from Game Control detailing IC news about the game world. This information may contain falsehoods. New information sheets will be available at the Great Erdrejan Fayre and the Gathering. Additional information may be available at Sanctioned Events at the organiser's discretion and they will advertise this is the event literature. The General Knowledge skills available are: Guildsman, Merchant, Rumour Monger, Storyteller, Wanderer and War Scout."
         },
@@ -1685,6 +1694,7 @@
             ],
             "tier": 5,
             "restricted": true,
+            "custom-value": true,
             "priority": 3,
             "description": "Requirements to use: Level 2 Spellcasting, Corruption, Incantation or Healing CS. The character gains access to the level 3 of any list they can cast to level 2 (for example if the character has Level 2 Healing they will now be able to cast Level 3 Healing. If they have Level 2 Dark Incantation and Necromancy they would be able to cast the Level 3 spell of Dark Incantation and Necromancy). This ability will only grant level 3 spells to be cast if the character has a level 2 and a level 1 casting ability it will only grant level 3 access for the level 2 skill. This does not grant them any additional Spell Power"
         },
@@ -2062,6 +2072,7 @@
             "prereq": [
                 "23"
             ],
+            "custom-value": true,
             "restricted": false,
             "priority": 1,
             "description": "This skill replaces Apprentice <X> (where <X> is the same). This skill allows the character to gain extra income and represents the character's profession, <X>. The player can collect an extra 2 Gold from Game Control once per Gathering. This skill not count towards your 4 skills permitted per year. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
@@ -2240,6 +2251,7 @@
                 "150"
             ],
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill replaces Journeyman (where <X> is the same). This skill allows the character to gain extra income and represents the character's profession, <X>. The player can collect an extra 4 Gold from Game Control once per Gathering. This skill not count towards your 4 skills permitted per year. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
         },
@@ -2426,6 +2438,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill will replace a lower level of the Paladin <X> Occupational Skill. The character will gain the Paladin loresheet and may buy Occupational Skill listed there up to the stated Tier. To gain this skill a character must fulfil the IC requirements listed on the Paladin loresheet. A Paladin is a type of Essence Creature. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
         },
@@ -2682,6 +2695,7 @@
                 "195"
             ],
             "restricted": true,
+            "custom-value": true,
             "priority": 3,
             "description": "This skill will replace the Scholar <X> Occupational Skill (where <X> is the same subject). If a character with this skill submits research requests on the specified topic, <X>, they will receive answers in accordance with their further enhanced ability in research related to that topic. Suggestions for available topics can be obtained from Game Control. Allows the submission (subject to the relevant IC arrangements) of a research request during the summer research period (subject to an overall maximum limit of one research submission per character per research period). This skill may only be purchased once and to attempt to learn it you must submit a research request. While this skill primarily assists with research, it may grant additional information at a referee's discretion, but it cannot replicate a character skill, or occupational skill. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
         },
@@ -2694,6 +2708,7 @@
             ],
             "tier": 2,
             "restricted": false,
+            "custom-value": true,
             "priority": 3,
             "description": "If a character with this skill submits research requests on the specified topic, <X>, they will receive answers in accordance with their enhanced ability in research related to that topic. Suggestions for available topics can be obtained from Game Control. Allows the submission (subject to the relevant in-character arrangements) of a research request during the summer research period (subject to an overall maximum limit of one research submission per character per research period). <span class=\"updated\">This skill may be explicitly purchased twice (each instance specialising in a different topic)</span>. While this skill primarily assists with research, it may in limited circumstances grant additional information at a referee's discretion, but it cannot replicate a character skill, or occupational skill. <span class=\"updated\">This skill does not count towards the total number of occupational skills that your character may have (12).</span>"
         },
@@ -2709,6 +2724,7 @@
                 "217"
             ],
             "restricted": false,
+            "custom-value": true,
             "priority": 5,
             "description": "This skill replaces the TNS from the family of TNS skills it belongs to and allows a character to collect all of the loresheets for each of the TNS Scripts within that chosen Script Category (Regional and Historical, People and Race or Myth and Magic). This skill also allows the character to translate all of the named scripts in this category to common."
         },
@@ -3000,6 +3016,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 5,
             "description": "This skill allows a character to translate one named script to common for every TNS that is purchased. Each of the most common scripts are listed below and fall into one to three Script families: Regional and Historical, People and Race, Myth and Magic. A loresheet for each script can be collected from Game Control once this skill is on the character card. Some TNS scripts are not listed below and are not part of the Script Categories - these TNS Scripts are only available with particular prerequisites or Loresheets. <b>NOTE: Only a character with a TNS Skill may attempt to translate a language in this way. Any attempt to translate the script using a 'Hard Skill' (i.e. using a process of deduction or by utilising out-of-character knowledge or devices) will be breaking the Spirit of the Rules and Cheating.</b> <table> <tr> <th>Region & Historical Scripts</th> <th>People & Race Scripts</th> <th>Myth & Magic Scripts</th> </tr> <tr> <td>TNS Southern</td> <td>TNS Beastkin</td> <td>TNS Ancient</td> </tr> <tr> <td>TNS Aegyptus</td> <td>TNS Dwarf</td> <td>TNS Arataic</td> </tr> <tr> <td>TNS Arabia</td> <td>TNS Elven</td> <td>TNS Cecealia</td> </tr> <tr> <td>TNS Cathay</td> <td>TNS Fey</td> <td>TNS Chaos and Magic</td> </tr> <tr> <td>TNS Maurabian</td> <td>TNS Lizardman</td> <td>TNS Daemon</td> </tr> <tr> <td>TNS Nihon</td> <td>TNS Merrow</td> <td>TNS Illithid</td> </tr> <tr> <td>TNS Old Empire</td> <td>TNS Olog</td> <td>TNS Moonlore</td> </tr> <tr> <td>TNS Peng</td> <td>TNS Skathen</td> <td>TNS Old Illithid</td> </tr> <tr> <td>TNS Picta</td> <td>TNS Uruck</td> <td>TNS Void Entity</td> </tr> <tr> <td>TNS Siberija</td> <td>TNS Halfling</td> <td>TNS Void Wretch</td> </tr> </table>  <table> <tr> <th>Loresheet/Restricted Scripts</th> <th>Restriction</th> <th>Notes</th> </tr> <tr> <td>TNS Ancestor Runes</td> <td>Ancestral Creatures Only</td> <td>May not be Tutored</td> </tr> <tr> <td>TNS Daemon Runes</td> <td>Daemon Creature Only </td> <td>May not be Tutored</td> </tr> <tr> <td>TNS Elemental Runes</td> <td>Elemental Creatures Only</td> <td>May not be Tutored</td> </tr> <tr> <td>TNS Grave Runes</td> <td>Unliving Creatures Only</td> <td>M <tr> <td>TNS Spiral</td> <td>Oathsworn Scouts Guild Req.</td> <td>May not be Tutored</td> </tr>ay not be Tutored</td> </tr> </table>"
         },
@@ -3103,6 +3120,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill will replace a lower level of the Vampire <X> Occupational Skill. The character will gain the Vampire loresheet and may buy Occupational Skill listed there up to the stated Tier. To gain this skill a character must fulfil the IC requirements listed on the Vampire loresheet. A Vampire is a type of Essence Creature. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
         },
@@ -3139,6 +3157,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill will replace a lower level of the Warlock <X> Occupational Skill. The character will gain the Warlock loresheet and may buy Occupational Skill listed there up to the stated Tier. To gain this skill a character must fulfil the IC requirements listed on the Warlock loresheet. A Warlock is a type of Essence Creature. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
         },
@@ -3208,6 +3227,7 @@
             ],
             "tier": 1,
             "restricted": false,
+            "custom-value": true,
             "priority": 1,
             "description": "This skill will replace a lower level of the Werecreature <X> Occupational Skill. The character will gain the Werecreature loresheet and may buy Occupational Skill listed there up to the stated Tier. To gain this skill a character must fulfil the IC requirements listed on the Werecreature loresheet. A Werecreature is a type of Essence Creature. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)"
         },
