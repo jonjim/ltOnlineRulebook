@@ -1,0 +1,84 @@
+{
+    "version": "4.0.6",
+    "date": "2025-08-08T15:38:31.916Z",
+    "data": [
+        {
+            "name": "Players Handbook",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Lorien-Trust-Rules-Handbook-v4.06-3.pdf",
+            "type": "rules"
+        },
+        {
+            "name": "Loresheets & Downloadables",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Lorien-Trust-Printable-Loresheets-and-Files-1-1.pdf",
+            "type": "rules"
+        },
+        {
+            "name": "Safeguarding Policy & Under 16's Supervision",
+            "url": "https://lorientrust.com/wp-content/uploads/2025/06/Safeguarding-Policy.pdf",
+            "type": "rules"
+        },
+        {
+            "name": "Guild Crafting Lists",
+            "version":"2025",
+            "url": "https://lorientrust.com/wp-content/uploads/2025/04/Lorien-Trust-2025-Crafting-Lists-and-Information.pdf",
+            "type": "crafting"
+        },
+        {
+            "name": "Rune",
+            "version":"2025",
+            "url": "https://lorientrust.com/wp-content/uploads/2025/04/Lorien-Trust-RUNE-2025-1.pdf",
+            "type": "rune"
+        },
+        {
+            "name": "Albion",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Albion-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Caledonia & Orkneyjar",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Caledonia-and-Orkneyjar-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Cymria & Erin",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Cymrija-and-Erin-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Estragales & Lyonesse",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Estragales-and-Lyonesse-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Lantia",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Lantia-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Mauritanja",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Mauritanja-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Norsca",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Norsca-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "Teutonia",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/Teutonia-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "The Southlands",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/The-Southlands-Astrolabic-Map.pdf",
+            "type": "map"
+        },
+        {
+            "name": "The Underdark",
+            "url": "https://lorientrust.com/wp-content/uploads/2024/11/The-Underdark-Astrolabic-Map.pdf",
+            "type": "map"
+        }
+
+    ]
+}
