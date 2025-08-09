@@ -12,7 +12,7 @@
             "tier": 4,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character's Base LHV is increased by one. This may not raise the character's total Base LHV beyond four. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character's Base LHV is increased by one. This may not raise the character's total Base LHV beyond four. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This increases the Power Rating carrying capacity by 1."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This increases the Power Rating carrying capacity by 1."
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
             "tier": 5,
             "restricted": true,
             "priority": 7,
-            "description": "Requirements to use: Body development 2 CS or Lammie or Loresheet. The character gains +1LHV, subject to the rule of double."
+            "description": "<b>Requirements to use: Body development 2 CS or Lammie or Loresheet.</b><br/> The character gains +1LHV, subject to the rule of double."
         },
         {
             "id": 4,
@@ -48,7 +48,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Skill name is interchangeable with Dismiss Rank +5. The character gains +5 to their dismiss rank. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Skill name is interchangeable with Dismiss Rank +5. The character gains +5 to their dismiss rank. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 5,
@@ -63,7 +63,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Skill name is interchangeable with Dismiss Rank +10. The character gains +10 to their dismiss rank. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Skill name is interchangeable with Dismiss Rank +10. The character gains +10 to their dismiss rank. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 6,
@@ -75,7 +75,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This grants the character 1 point of Magical Armour on every location. If this armour becomes damaged then any character with their own power can repair it using a single Spell Power, to restore fully the protection value of the armour on a single location by holding the open palm of their casting hand towards the target (approx. 1ft away from it), and speaking the vocals \"By my power I replenish this armour\". If the character gains a Mage or Paladins Armour it will instead boost that High Sigil effect by 1 point and will follow all of the rules for that High Sigil effect. You may never have more than 4 points of Magical Armour by any means. +1 Magical Armour will refresh at time-in."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This grants the character 1 point of Magical Armour on every location. If this armour becomes damaged then any character with their own power can repair it using a single Spell Power, to restore fully the protection value of the armour on a single location by holding the open palm of their casting hand towards the target (approx. 1ft away from it), and speaking the vocals \"By my power I replenish this armour\". If the character gains a Mage or Paladins Armour it will instead boost that High Sigil effect by 1 point and will follow all of the rules for that High Sigil effect. You may never have more than 4 points of Magical Armour by any means. +1 Magical Armour will refresh at time-in."
         },
         {
             "id": 7,
@@ -87,7 +87,7 @@
             "tier": 3,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Gains 1 point of Natural Armour. You may never have more than 4 points of Natural Armour by any means. This effect may also be granted by a Sigil effect (may not stack with an Occupational Skill, Lammie or Loresheet Natural Armour). The Sigil effects of Carapace Armour and High Carapace armour will stack with this skill."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Gains 1 point of Natural Armour. You may never have more than 4 points of Natural Armour by any means. This effect may also be granted by a Sigil effect (may not stack with an Occupational Skill, Lammie or Loresheet Natural Armour). The Sigil effects of Carapace Armour and High Carapace armour will stack with this skill."
         },
         {
             "id": 8,
@@ -102,7 +102,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This replaces the Occupational Skill +1 Bonus PR. This increases the Power Rating carrying capacity by 2."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This replaces the Occupational Skill +1 Bonus PR. This increases the Power Rating carrying capacity by 2."
         },
         {
             "id": 9,
@@ -117,7 +117,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character gains +2LHV, subject to the rule of double. Requires and replaces the +1 LHV Occupational Skill. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character gains +2LHV, subject to the rule of double. Requires and replaces the +1 LHV Occupational Skill. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it"
         },
         {
             "id": 10,
@@ -132,7 +132,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This replaces the skill +1 Magical Armour and grants the character 2 points of Magical Armour on every location. If this armour becomes damaged then any character with their own power can repair it using a single Spell Power, to restore fully the protection value of the armour on a single location by holding the open palm of their casting hand towards the target (approx. 1ft away from it), and speaking the vocals \"By my power I replenish this armour\". If the character gains a Mage or Paladins Armour it will instead boost that High Sigil effect by 2 points and will follow all of the rules for that High Sigil effect. You may never have more than 4 points of Magical Armour by any means. +2 Magical Armour will refresh at time-in"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This replaces the skill +1 Magical Armour and grants the character 2 points of Magical Armour on every location. If this armour becomes damaged then any character with their own power can repair it using a single Spell Power, to restore fully the protection value of the armour on a single location by holding the open palm of their casting hand towards the target (approx. 1ft away from it), and speaking the vocals \"By my power I replenish this armour\". If the character gains a Mage or Paladins Armour it will instead boost that High Sigil effect by 2 points and will follow all of the rules for that High Sigil effect. You may never have more than 4 points of Magical Armour by any means. +2 Magical Armour will refresh at time-in"
         },
         {
             "id": 11,
@@ -147,7 +147,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This skill replaces +1 Natural Armour, gains 2 points of Natural Armour. You may never have more than 4 points of Natural Armour by any means. This effect may also be granted by a Sigil effect (may not stack with an Occupational Skill, Lammie or Loresheet Natural Armour). The Sigil effects of Carapace Armour and High Carapace armour will stack with this skill."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill replaces +1 Natural Armour, gains 2 points of Natural Armour. You may never have more than 4 points of Natural Armour by any means. This effect may also be granted by a Sigil effect (may not stack with an Occupational Skill, Lammie or Loresheet Natural Armour). The Sigil effects of Carapace Armour and High Carapace armour will stack with this skill."
         },
         {
             "id": 12,
@@ -220,7 +220,7 @@
             "restricted": true,
             "customValue": true,
             "priority": 5,
-            "description": "Requirements to use: Lammie or Loresheet. Includes the following occupational skills and abilities: Acticate <X> Item, Immune to Lethal Alchemical Venoms, Tutor, Cursing Word"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Includes the following occupational skills and abilities: Acticate <X> Item, Immune to Lethal Alchemical Venoms, Tutor, Cursing Word"
         },
         {
             "id": 17,
@@ -277,7 +277,7 @@
             ],
             "restricted": false,
             "priority": 7,
-            "description": "Requirements to use: Any Armour use CS. This skill replaces Quick Armour Repair and allows the character to restore AV of damaged armour in half the normal time, it also allows the character to restore the AV of a single location to full in one minute. May not be used on Magical Armour (e.g. Paladin/Mage Armour) or Natural Armour, nor be combined with Quick Armour Repair."
+            "description": "<b>Requirements to use: Any Armour use CS.</b></br> This skill replaces Quick Armour Repair and allows the character to restore AV of damaged armour in half the normal time, it also allows the character to restore the AV of a single location to full in one minute. May not be used on Magical Armour (e.g. Paladin/Mage Armour) or Natural Armour, nor be combined with Quick Armour Repair."
         },
         {
             "id": 21,
@@ -292,7 +292,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Healing CS. This skill replaces Revive and allows a character to extend a Chant of Heal Wound to affect every location on a single character, without requiring extra spell Power. The healing is location by location, not simultaneous and the healer may choose what damage to heal first. In addition the character may expend one power and concentrate on a target within proximity distance, after 10 seconds they may remove the debilitation effect."
+            "description": "<br>Requirements to use: Healing CS.</b></br> This skill replaces Revive and allows a character to extend a Chant of Heal Wound to affect every location on a single character, without requiring extra spell Power. The healing is location by location, not simultaneous and the healer may choose what damage to heal first. In addition the character may expend one power and concentrate on a target within proximity distance, after 10 seconds they may remove the debilitation effect."
         },
         {
             "id": 22,
@@ -307,7 +307,7 @@
             ],
             "restricted": false,
             "priority": 3,
-            "description": "Requirements to use: Healing or Corruption CS. This skill replaces Discern Pattern Type. The character may place a hand approx. 1ft from the target and concentrate for 10 seconds to discern their pattern type (Living, Unliving, or Magical), if they are an Alien or Aberrant pattern and if they are under the effects of a possession. They will not be able to detect the rank of the possession. If a referee or marshal is present they may add additional information. A character with the Advanced Pattern skill will also be able to detect if a character is Regenerating damage but will not be able to detect the rate at which they are regenerating. Advanced pattern scan may also allow the detection and understanding of the cures required for some Curses."
+            "description": "<b>Requirements to use: Healing or Corruption CS.</b></br> This skill replaces Discern Pattern Type. The character may place a hand approx. 1ft from the target and concentrate for 10 seconds to discern their pattern type (Living, Unliving, or Magical), if they are an Alien or Aberrant pattern and if they are under the effects of a possession. They will not be able to detect the rank of the possession. If a referee or marshal is present they may add additional information. A character with the Advanced Pattern skill will also be able to detect if a character is Regenerating damage but will not be able to detect the rate at which they are regenerating. Advanced pattern scan may also allow the detection and understanding of the cures required for some Curses."
         },
         {
             "id": 23,
@@ -332,7 +332,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Any Armour Use CS. This skill increases the AV of any armour worn by +1, subject to the rule of double"
+            "description": "<b>Requirements to use: Any Armour Use CS.</b></br> This skill increases the AV of any armour worn by +1, subject to the rule of double"
         },
         {
             "id": 25,
@@ -347,7 +347,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Any Armour Use CS. This skill replaces Armour Mastery and increases the AV of any armour worn by +2, subject to the rule of double"
+            "description": "<b>Requirements to use: Any Armour Use CS.</b></br> This skill replaces Armour Mastery and increases the AV of any armour worn by +2, subject to the rule of double"
         },
         {
             "id": 26,
@@ -362,7 +362,7 @@
             ],
             "restricted": true,
             "priority": 1,
-            "description": "Requirements to use: Any Armour Use CS. This increases the AV of any armour worn by +2, subject to the rule of double. The character and any armour worn are immune to the Crush effect, unless it has the Artefact damage type. This skill does not stop Crush from destroying a shield. This Occupational Skill will not alter any other damage effect that ignores armour. "
+            "description": "<br>Requirements to use: Any Armour Use CS.</b></br> This increases the AV of any armour worn by +2, subject to the rule of double. The character and any armour worn are immune to the Crush effect, unless it has the Artefact damage type. This skill does not stop Crush from destroying a shield. This Occupational Skill will not alter any other damage effect that ignores armour. "
         },
         {
             "id": 27,
@@ -419,7 +419,7 @@
             ],
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Spellcasting, Incantation, Healing or Corruption CS. This skill replaces and includes Arcane Crafter (Apprentice). At each Lorien Trust Main Event the character may produce up to 2x Level 1 and 2x Level 2 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
+            "description": "<b>Requirements to use: Spellcasting, Incantation, Healing or Corruption CS.</b></br> This skill replaces and includes Arcane Crafter (Apprentice). At each Lorien Trust Main Event the character may produce up to 2x Level 1 and 2x Level 2 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
         },
         {
             "id": 31,
@@ -431,7 +431,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Spellcasting, Incantation, Healing or Corruption CS. At each Lorien Trust Main Event the character may produce up to 2x Level 1 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
+            "description": "<b>Requirements to use: Spellcasting, Incantation, Healing or Corruption CS.</b></br> At each Lorien Trust Main Event the character may produce up to 2x Level 1 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
         },
         {
             "id": 32,
@@ -446,7 +446,7 @@
             ],
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Spellcasting, Incantation, Healing or Corruption CS. This skill replaces and includes the occupational skill Arcane Crafter (Adept). At each Lorien Trust Main Event the character may produce up to 2x Level 1 and 2x Level 2 and 2x Level 3 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
+            "description": "<b>Requirements to use: Spellcasting, Incantation, Healing or Corruption CS.</b></br> This skill replaces and includes the occupational skill Arcane Crafter (Adept). At each Lorien Trust Main Event the character may produce up to 2x Level 1 and 2x Level 2 and 2x Level 3 Crafted Arcane Items. For many of the crafted items the Arcane Crafter must be able to cast the desired spell to Craft the Item (i.e. to produce an Amulet of Spell Reduction (1) for the Spell Blast the Crafter must be able to cast the spell Blast). The in-game cost for the materials will vary from time to time and list can be obtained from the Arcane Guilds."
         },
         {
             "id": 33,
@@ -459,7 +459,7 @@
             "restricted": true,
             "custom-value": true,
             "priority": 4,
-            "description": "Requirements to use: Awakened Loresheet. An Awakened creature is a type of Special Creature that is an evolution of a Base Race (Dwarf for example). These creatures still remain linked to their Base Race for the purposes of items and effects that can target them (Dwarf Bane etc.) and for detection/discern purposes. To become an Awakened, a Awakened Creature of the correct type must perform a Rite of Creation to align your pattern and unlock your potential. Once this rite is complete you will receive an appropriate Awakened Loresheet which details any Race Specific Abilities or Rules as well as Occupational skills that are not normally available or can be purchased at a discount. Becoming an Awakened Creature prevents the character becoming an Essence Creature, Summonable Creature or any other kind of Special Creature (Generally created in a Ritual). Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets). Awakening will count as one of your four skill buys for the year but will only replace the Reace description on the front of your character card."
+            "description": "<b>Requirements to use: Awakened Loresheet.</b></br> An Awakened creature is a type of Special Creature that is an evolution of a Base Race (Dwarf for example). These creatures still remain linked to their Base Race for the purposes of items and effects that can target them (Dwarf Bane etc.) and for detection/discern purposes. To become an Awakened, a Awakened Creature of the correct type must perform a Rite of Creation to align your pattern and unlock your potential. Once this rite is complete you will receive an appropriate Awakened Loresheet which details any Race Specific Abilities or Rules as well as Occupational skills that are not normally available or can be purchased at a discount. Becoming an Awakened Creature prevents the character becoming an Essence Creature, Summonable Creature or any other kind of Special Creature (Generally created in a Ritual). Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets). Awakening will count as one of your four skill buys for the year but will only replace the Reace description on the front of your character card."
         },
         {
             "id": 34,
@@ -474,7 +474,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Requires and replaces the Beast-form Skill Use Occupational Skill. This skill allows the character to be fully intelligent in beast-form, and they may speak, use Occupational Skills and cast spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Requires and replaces the Beast-form Skill Use Occupational Skill. This skill allows the character to be fully intelligent in beast-form, and they may speak, use Occupational Skills and cast spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 35,
@@ -486,7 +486,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character may change into beast-form two extra times a day. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character may change into beast-form two extra times a day. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it"
         },
         {
             "id": 36,
@@ -498,7 +498,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This skill allows the character to speak while in beast form. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill allows the character to speak while in beast form. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 37,
@@ -510,7 +510,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Requires and replaces the Beast-form Intelligence Occupational Skill. This skill allows the character to be fully intelligent in beast-form, and they may speak and use Occupational Skills, but not cast spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Requires and replaces the Beast-form Intelligence Occupational Skill. This skill allows the character to be fully intelligent in beast-form, and they may speak and use Occupational Skills, but not cast spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 38,
@@ -539,7 +539,7 @@
             "restricted": false,
             "custom-value": true,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Each level of this skill requires and replaces the previous level. Once a day per level of the Occupational Skill (Item cards or Power req.), the character may create the Beguile effect after 5 minutes of meaningful two-way conversation with their intended target. This effect cannot be countered and the OOC call is 'innate beguile'. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Each level of this skill requires and replaces the previous level. Once a day per level of the Occupational Skill (Item cards or Power req.), the character may create the Beguile effect after 5 minutes of meaningful two-way conversation with their intended target. This effect cannot be countered and the OOC call is 'innate beguile'. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
         },
         {
             "id": 40,
@@ -578,7 +578,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "<span class=\"updated\">Requirements to use: Lammie, Loresheet and Large Melee Weapon use CS. Additionally available to a Child 10-15yrs (see children in character skills section).</span>  Once per 10 minutes may strike for Strikedown with a large melee weapon. This skill will be replaced by the Mighty Blow Occupational Skill. This skill may not be purchased by anyone with the skill Goblin Resilience and prevents the purchase of Goblin Resilience."
+            "description": "<span class=\"updated\"><b>Requirements to use: Lammie, Loresheet and Large Melee Weapon use CS.</b></br> Additionally available to a Child 10-15yrs (see children in character skills section).</span>  Once per 10 minutes may strike for Strikedown with a large melee weapon. This skill will be replaced by the Mighty Blow Occupational Skill. This skill may not be purchased by anyone with the skill Goblin Resilience and prevents the purchase of Goblin Resilience."
         },
         {
             "id": 43,
@@ -594,7 +594,7 @@
             ],
             "restricted": true,
             "priority": 2,
-            "description": "Requirements to use: Light Incantation or Dark Incantation Occupational Skill. The character can cast spells from the standard Incantation list as well as their converted spell list."
+            "description": "<b>Requirements to use: Light Incantation or Dark Incantation Occupational Skill.</b></br> The character can cast spells from the standard Incantation list as well as their converted spell list."
         },
         {
             "id": 44,
@@ -609,7 +609,7 @@
             ],
             "restricted": true,
             "priority": 2,
-            "description": "Requirements to use: Enchanting or Shadow Magic Occupational Skill. The character can cast spells from the standard Spellcasting list as well as their converted spell list."
+            "description": "<b>Requirements to use: Enchanting or Shadow Magic Occupational Skill.</b></br> The character can cast spells from the standard Spellcasting list as well as their converted spell list."
         },
         {
             "id": 45,
@@ -624,7 +624,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": " Requirements to use: Lammie or Loresheet and Incantation CS. This skill replaces the Cast Additional Incantation Occupational Skill. The character gains the ability to cast spells from the Cast All Incantation list (instead of the normal Incantation list). This skill counts as a prerequisite for Elementalism or Necromancy (one or the other - may not have both skills at the same time)."
+            "description": "<b>Requirements to use: Lammie or Loresheet and Incantation CS.</b></br> This skill replaces the Cast Additional Incantation Occupational Skill. The character gains the ability to cast spells from the Cast All Incantation list (instead of the normal Incantation list). This skill counts as a prerequisite for Elementalism or Necromancy (one or the other - may not have both skills at the same time)."
         },
         {
             "id": 46,
@@ -639,7 +639,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": " Requirements to use: Lammie or Loresheet and Spellcasting CS. This skill replaces the Cast Additional Magecraft Occupational Skill. The character gains the ability to cast spells from the Cast All Magecraft list (instead of the normal Spellcasting list). This skill counts as a prerequisite for Elementalism or Necromancy (one or the other - may not have both skills at the same time)"
+            "description": "<b>Requirements to use: Lammie or Loresheet and Spellcasting CS.</b></br> This skill replaces the Cast Additional Magecraft Occupational Skill. The character gains the ability to cast spells from the Cast All Magecraft list (instead of the normal Spellcasting list). This skill counts as a prerequisite for Elementalism or Necromancy (one or the other - may not have both skills at the same time)"
         },
         {
             "id": 47,
@@ -652,7 +652,7 @@
             "tier": 3,
             "restricted": false,
             "priority": 2,
-            "description": " Requirements to use: Spellcasting or Incantation CS. With this skill a character may use 4 power and cast a High Countermagic spell"
+            "description": "<b>Requirements to use: Spellcasting or Incantation CS.</b></br> With this skill a character may use 4 power and cast a High Countermagic spell"
         },
         {
             "id": 48,
@@ -684,7 +684,7 @@
             ],
             "restricted": false,
             "priority": 4,
-            "description": "Requirements to use: Any Armour use CS. This skill replaces Transcend Armour and allows the character to cast ranged and mass spells in any level of armour."
+            "description": "<b>Requirements to use: Any Armour use CS.</b></br> This skill replaces Transcend Armour and allows the character to cast ranged and mass spells in any level of armour."
         },
         {
             "id": 50,
@@ -708,7 +708,7 @@
             "tier": 5,
             "restricted": false,
             "priority": 6,
-            "description": "Requirements to use: Command (Watchers). The character is granted the Circle Watcher ability"
+            "description": "<b>Requirements to use: Command (Watchers).</b></br> The character is granted the Circle Watcher ability"
         },
         {
             "id": 52,
@@ -749,7 +749,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 4,
-            "description": "Requirements to use: Contribute to Ritual CS. This skill allows the character to contribute to a second ritual each day."
+            "description": "<b>Requirements to use: Contribute to Ritual CS.</b></br> This skill allows the character to contribute to a second ritual each day."
         },
         {
             "id": 55,
@@ -764,7 +764,7 @@
             ],
             "restricted": false,
             "priority": 4,
-            "description": "Requirements to use: Contribute to Ritual CS. This skill replaces Contribute to 2nd Ritual and allows the character to contribute to a third ritual each day"
+            "description": "<b>Requirements to use: Contribute to Ritual CS.</b></br> This skill replaces Contribute to 2nd Ritual and allows the character to contribute to a third ritual each day"
         },
         {
             "id": 56,
@@ -776,7 +776,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 4,
-            "description": "Requirements to use: Poison Lore or Potion Lore CS. This skill allows the character to make a single first level antidote or protection potion at each Lorien Trust Main Event."
+            "description": "<b>Requirements to use: Poison Lore or Potion Lore CS.</b></br> This skill allows the character to make a single first level antidote or protection potion at each Lorien Trust Main Event."
         },
         {
             "id": 57,
@@ -791,7 +791,7 @@
             ],
             "restricted": false,
             "priority": 4,
-            "description": "Poison Lore or Potion Lore CS. This replaces Create Antidotes. This skill allows the character to make up to three first or second level antidotes or protection potions at each Lorien Trust Main Event."
+            "description": "<b>Requirements to use: Poison Lore or Potion Lore CS.</b></br> This replaces Create Antidotes. This skill allows the character to make up to three first or second level antidotes or protection potions at each Lorien Trust Main Event."
         },
         {
             "id": 58,
@@ -806,7 +806,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Poison lore CS. This skill replaces Create Poison (Novice) and allows the character to make a level 1 and a level 2 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process"
+            "description": "<b>Requirements to use: Poison lore CS.</b></br> This skill replaces Create Poison (Novice) and allows the character to make a level 1 and a level 2 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process"
         },
         {
             "id": 59,
@@ -821,7 +821,7 @@
             ],
             "restricted": true,
             "priority": 1,
-            "description": "Requirements to use: Poison lore CS. This skill replaces Create Poison (Master) and allows the character to make a level 1, a level 2 and a level 3 poison at each Lorien Trust Main Event plus one Magical poison per event with ingredients that can be obtained and used in the Alchemists Guild. Once per year a character with the Create Poison (Magical) Occupational Skill can use their Magical Poison create for that event to create a single Tailored Magical Poison. Details of levels and costs of materials can be gained in-character at the Alchemists Guild. Note: The term Magical used for this skill refers to the level of expertise, as many of the lower level poisons can also be magical in nature."
+            "description": "<b>Requirements to use: Poison lore CS.</b></br> This skill replaces Create Poison (Master) and allows the character to make a level 1, a level 2 and a level 3 poison at each Lorien Trust Main Event plus one Magical poison per event with ingredients that can be obtained and used in the Alchemists Guild. Once per year a character with the Create Poison (Magical) Occupational Skill can use their Magical Poison create for that event to create a single Tailored Magical Poison. Details of levels and costs of materials can be gained in-character at the Alchemists Guild. Note: The term Magical used for this skill refers to the level of expertise, as many of the lower level poisons can also be magical in nature."
         },
         {
             "id": 60,
@@ -836,7 +836,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Poison lore CS. This skill replaces Create Poison (Artisan) and allows the character to make a level 1, a level 2 and a level 3 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
+            "description": "<b>Requirements to use: Poison lore CS.</b></br> This skill replaces Create Poison (Artisan) and allows the character to make a level 1, a level 2 and a level 3 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
         },
         {
             "id": 61,
@@ -848,7 +848,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Poison lore CS. This skill allows the character to make a level 1 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
+            "description": "<b>Requirements to use: Poison lore CS.</b></br> This skill allows the character to make a level 1 poison at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
         },
         {
             "id": 62,
@@ -863,7 +863,7 @@
             ],
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Potion Lore CS. This skill replaces Create Potion (Novice) and allows the character to make a level 1 and a level 2 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
+            "description": "<b>Requirements to use: Potion Lore CS.</b></br> This skill replaces Create Potion (Novice) and allows the character to make a level 1 and a level 2 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
         },
         {
             "id": 63,
@@ -878,7 +878,7 @@
             ],
             "restricted": true,
             "priority": 2,
-            "description": "Requirements to use: Potion Lore CS. This skill replaces Create Potion (Master) and allows the character to make a level 1, a level 2 and a level 3 potion at each Lorien Trust Main Event plus one Magical potion per event with ingredients that can be obtained and used in the Alchemists Guild. Once per year a character with the Create Potion (Magical) Occupational Skill can use their Magical Potion create for that event to create a single Tailored Magical Potion. Details of levels and costs of materials can be gained In-character at the Alchemists Guild. Note: The term Magical used for this skill refers to the level of expertise, as many of the lower level potions can also be magical in nature. If a Potion has a PR of 1 or more it is considered Magical for the purposes of Lammies, Loresheets and Special Creatures."
+            "description": "<b>Requirements to use: Potion Lore CS.</b></br> This skill replaces Create Potion (Master) and allows the character to make a level 1, a level 2 and a level 3 potion at each Lorien Trust Main Event plus one Magical potion per event with ingredients that can be obtained and used in the Alchemists Guild. Once per year a character with the Create Potion (Magical) Occupational Skill can use their Magical Potion create for that event to create a single Tailored Magical Potion. Details of levels and costs of materials can be gained In-character at the Alchemists Guild. Note: The term Magical used for this skill refers to the level of expertise, as many of the lower level potions can also be magical in nature. If a Potion has a PR of 1 or more it is considered Magical for the purposes of Lammies, Loresheets and Special Creatures."
         },
         {
             "id": 64,
@@ -893,7 +893,7 @@
             ],
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Potion Lore CS. This skill replaces Create Potion (Artisan) and allows the character to make a level 1, a level 2 and a level 3 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
+            "description": "<b>Requirements to use: Potion Lore CS.</b></br> This skill replaces Create Potion (Artisan) and allows the character to make a level 1, a level 2 and a level 3 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
         },
         {
             "id": 65,
@@ -905,7 +905,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 2,
-            "description": "Requirements to use: Potion Lore CS. This skill allows the character to make a level 1 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
+            "description": "<b>Requirements to use: Potion Lore CS.</b></br> This skill allows the character to make a level 1 potion at each Lorien Trust Main Event with ingredients that can be obtained and used in the Alchemists Guild. This skill may also be used with the Distilling process."
         },
         {
             "id": 66,
@@ -987,7 +987,7 @@
             ],
             "restricted": false,
             "priority": 4,
-            "description": "<span class=\"updated\">Requirements to use: Lammie or Loresheet. Replaces the Damage Reduction (Crush) Occupational Skill. Grants the character Damage Reduction to all damage effects and grants the character immunity to all Through effects (Not Artefact through). Note: it has no effect on Artefact or Bane Damage, with the exception that it functions on Fatal Damage exactly the same as Occupational Skill: Damage Reduction (Fatal). If the character also has the Occupational Skill or ability to Regenerate Damage, the maximum speed at which the Damage can be regained is 1 per 5 mins (this may not be improved by any means).</span>"
+            "description": "<span class=\"updated\"><b>Requirements to use: Lammie or Loresheet.</b><br/> Replaces the Damage Reduction (Crush) Occupational Skill. Grants the character Damage Reduction to all damage effects and grants the character immunity to all Through effects (Not Artefact through). Note: it has no effect on Artefact or Bane Damage, with the exception that it functions on Fatal Damage exactly the same as Occupational Skill: Damage Reduction (Fatal). If the character also has the Occupational Skill or ability to Regenerate Damage, the maximum speed at which the Damage can be regained is 1 per 5 mins (this may not be improved by any means).</span>"
         },
         {
             "id": 72,
@@ -1002,7 +1002,7 @@
             ],
             "restricted": false,
             "priority": 4,
-            "description": "<span class=\"updated\">Requirements to use: Lammie or Loresheet. This grants the character Damage Reduction (Crush). Note: this Occupational Skill does not grant any protection to any shield the character may be using or carrying. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: This has no effect against Artefact Damage.</span>"
+            "description": "<span class=\"updated\"><b>Requirements to use: Lammie or Loresheet.</b><br/> This grants the character Damage Reduction (Crush). Note: this Occupational Skill does not grant any protection to any shield the character may be using or carrying. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: This has no effect against Artefact Damage.</span>"
         },
         {
             "id": 73,
@@ -1196,7 +1196,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. See +5 Dismiss Rank (name is interchangeable)"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> See +5 Dismiss Rank (name is interchangeable)"
         },
         {
             "id": 88,
@@ -1211,7 +1211,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. See +10 Dismiss Rank (name is interchangeable)"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> See +10 Dismiss Rank (name is interchangeable)"
         },
         {
             "id": 89,
@@ -1397,7 +1397,7 @@
             "restricted": false,
             "custom-value": true,
             "priority": 1,
-            "description": " Requirements to use: Lammie or Loresheet. Each level of this skill requires and replaces the previous level. The character may create an innate Mass Fear effect once a day per level of the Occupational Skill (Item cards or Power req.), which cannot be countered. The vocals are 'innate mass fear'. Mass Fear may not be used on large groups or in mass combat without consulting a Referee or Marshal for safety reasons. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
+            "description": " <b>Requirements to use: Lammie or Loresheet.</b><br/> Each level of this skill requires and replaces the previous level. The character may create an innate Mass Fear effect once a day per level of the Occupational Skill (Item cards or Power req.), which cannot be countered. The vocals are 'innate mass fear'. Mass Fear may not be used on large groups or in mass combat without consulting a Referee or Marshal for safety reasons. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Note: this is an effect and not a spell, and may not be combined with Spell Reduction"
         },
         {
             "id": 103,
@@ -1409,7 +1409,7 @@
             "tier": 0,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This character has the ability to evaluate the quality of materials that a crafted item may contain that can be salvaged, or its resale value via alternative (often criminal) channels. If a crafted item with over 2 years of remaining duration is examined - this character can offer up to a quarter of its original base crafting value (maximum). These items are often taken through a process of Disenchantment (shaving off magically active parts or ingredients to use for other purposes) and sold on at a reduced rate (still working to full effect and duration) via Black-Market contacts. If these items are then presented to a character with a Fence skill for a second time they will be able to determine its poorer state and are unlikely to make an offer. Rare or unusual items may be examined but are often rejected as their quality or uniqueness make them difficult to sell on"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This character has the ability to evaluate the quality of materials that a crafted item may contain that can be salvaged, or its resale value via alternative (often criminal) channels. If a crafted item with over 2 years of remaining duration is examined - this character can offer up to a quarter of its original base crafting value (maximum). These items are often taken through a process of Disenchantment (shaving off magically active parts or ingredients to use for other purposes) and sold on at a reduced rate (still working to full effect and duration) via Black-Market contacts. If these items are then presented to a character with a Fence skill for a second time they will be able to determine its poorer state and are unlikely to make an offer. Rare or unusual items may be examined but are often rejected as their quality or uniqueness make them difficult to sell on"
         },
         {
             "id": 104,
@@ -1486,7 +1486,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Requires the Mage Bolt Wedge Occupational Skill and applicable lammie or loresheet. The character may enter a wedge with other Warlocks, and the head of the wedge may use 4 power from the wedge to cast a Blast spell as a Global effect. Excess power is wasted. This counts as a level 3 ranged spell. The head of the wedge must have this Occupational Skill, all members must be able to cast Blast and the wedge must be at least two characters. The vocals for the spell are 'By my High Magic Power I strike you Global Blast.'"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Requires the Mage Bolt Wedge Occupational Skill and applicable lammie or loresheet. The character may enter a wedge with other Warlocks, and the head of the wedge may use 4 power from the wedge to cast a Blast spell as a Global effect. Excess power is wasted. This counts as a level 3 ranged spell. The head of the wedge must have this Occupational Skill, all members must be able to cast Blast and the wedge must be at least two characters. The vocals for the spell are 'By my High Magic Power I strike you Global Blast.'"
         },
         {
             "id": 110,
@@ -1498,7 +1498,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. If a character is unconscious and no locations are on -1 LHV, they become debilitated after 1 minute. This skill may not be purchased by anyone with the skills Mighty Blow, Crushing Blow, Brutish Strike or Focused Strike and prevents the purchase of Mighty Blow, Crushing Blow, Brutish Strike or Focused Strike."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> If a character is unconscious and no locations are on -1 LHV, they become debilitated after 1 minute. This skill may not be purchased by anyone with the skills Mighty Blow, Crushing Blow, Brutish Strike or Focused Strike and prevents the purchase of Mighty Blow, Crushing Blow, Brutish Strike or Focused Strike."
         },
         {
             "id": 111,
@@ -1567,7 +1567,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "<span class=\"updated\">Requirements to use: Lammie or Loresheet. This skill requires and replaces the Toughen Body Occupational Skill. A creature with the Harden Body Skill can not have a location reduced to below 0 (zero) unless is due to Harm, Magebolt, Smite, Fatal or Artefact. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it.</span>"
+            "description": "<span class=\"updated\"><b>Requirements to use: Lammie or Loresheet.</b><br/> This skill requires and replaces the Toughen Body Occupational Skill. A creature with the Harden Body Skill can not have a location reduced to below 0 (zero) unless is due to Harm, Magebolt, Smite, Fatal or Artefact. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it.</span>"
         },
         {
             "id": 116,
@@ -1623,7 +1623,7 @@
             ],
             "restricted": false,
             "priority": 7,
-            "description": "Requirements to use: Lammie or Loresheet. This skill replaces and includes the Herb Lore Occupational Skill. This skill allows the character to use herbs and natural ingredients from a local area, utilising regional remedies and natural skills to cause effects similar and often the same as some spells. Before each event you can download a Herb Loresheet from the Lorien Trust Website. This sheet should be filled out and carried with your character card whist in-character. The sheet will detail the number of herbs available to you each day (12 + additional 12) as well as boxes to mark off (in a similar way to Spell Power Sheets for Casters) and will additionally detail the effects of each herb (or combination). Each Herb application requires a proximity action (holding your hand approx. 1ft from the target/target location) for 10 seconds (this does not require concentration). This sheet represents your ability to quickly pick and use herbs in your immediate area that are easily secreted - and cannot be traded or stolen."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill replaces and includes the Herb Lore Occupational Skill. This skill allows the character to use herbs and natural ingredients from a local area, utilising regional remedies and natural skills to cause effects similar and often the same as some spells. Before each event you can download a Herb Loresheet from the Lorien Trust Website. This sheet should be filled out and carried with your character card whist in-character. The sheet will detail the number of herbs available to you each day (12 + additional 12) as well as boxes to mark off (in a similar way to Spell Power Sheets for Casters) and will additionally detail the effects of each herb (or combination). Each Herb application requires a proximity action (holding your hand approx. 1ft from the target/target location) for 10 seconds (this does not require concentration). This sheet represents your ability to quickly pick and use herbs in your immediate area that are easily secreted - and cannot be traded or stolen."
         },
         {
             "id": 120,
@@ -1752,7 +1752,7 @@
             "tier": 3,
             "restricted": false,
             "priority": 1,
-            "description": " Requirements to use: Lammie or Loresheet. This skill makes the character immune to the Disease and Decay effects. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": " <b>Requirements to use: Lammie or Loresheet.</b><br/> This skill makes the character immune to the Disease and Decay effects. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 129,
@@ -1780,7 +1780,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This skill replaces Damage Reduction (Fatal). The character is Immune to the Fatal effect."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill replaces Damage Reduction (Fatal). The character is Immune to the Fatal effect."
         },
         {
             "id": 131,
@@ -1795,7 +1795,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This skill replaces Damage Reduction (Harm). The character is Immune to the Harm effect."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill replaces Damage Reduction (Harm). The character is Immune to the Harm effect."
         },
         {
             "id": 132,
@@ -1810,7 +1810,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. This skill replaces Damage Reduction (Mage Bolt). The character is Immune to the Mage Bolt effect"
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> This skill replaces Damage Reduction (Mage Bolt). The character is Immune to the Mage Bolt effect"
         },
         {
             "id": 133,
@@ -1930,7 +1930,7 @@
             "tier": 2,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character is immune to the Paralysis effect."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character is immune to the Paralysis effect."
         },
         {
             "id": 141,
@@ -2005,7 +2005,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character's regeneration rate is improved by one step as shown in the following: Slower than 10 mins -> 10 mins -> 5 mins -> 1 min -> 30 sec -> 10 sec. Regeneration rate cannot be improved beyond 10 sec with this Occupational Skill, and this Occupational Skill can only purchase once. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Improved regeneration will not work with regeneration granted by an item."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character's regeneration rate is improved by one step as shown in the following: Slower than 10 mins -> 10 mins -> 5 mins -> 1 min -> 30 sec -> 10 sec. Regeneration rate cannot be improved beyond 10 sec with this Occupational Skill, and this Occupational Skill can only purchase once. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. Improved regeneration will not work with regeneration granted by an item."
         },
         {
             "id": 146,
@@ -2114,7 +2114,7 @@
             "tier": 4,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character has Spell Reduction (1) when casting level 2 spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character has Spell Reduction (1) when casting level 2 spells. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
         },
         {
             "id": 154,
@@ -2152,7 +2152,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character may enter a wedge with other Warlocks, and the head of the wedge may use 4 spell power from the wedge to cast the Mage Bolt spell. Excess Power is wasted. The head of the wedge must have this Occupational Skill, all members must be able to cast Blast and the wedge must be at least two characters. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character may enter a wedge with other Warlocks, and the head of the wedge may use 4 spell power from the wedge to cast the Mage Bolt spell. Excess Power is wasted. The head of the wedge must have this Occupational Skill, all members must be able to cast Blast and the wedge must be at least two characters. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it."
         },
         {
             "id": 157,
@@ -2810,7 +2810,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character has Spell Reduction (1) when creating Sigils or High Sigils. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it (See Spell Reduction entry in the Definitions and Glossary section)."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character has Spell Reduction (1) when creating Sigils or High Sigils. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it (See Spell Reduction entry in the Definitions and Glossary section)."
         },
         {
             "id": 203,
@@ -2866,7 +2866,7 @@
             "tier": 4,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character has Spell Reduction (1) when casting spells (min 1 power required for all spells). This skill can only be used or purchased if the character has an applicable lammie or loresheet that allowsit. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character has Spell Reduction (1) when casting spells (min 1 power required for all spells). This skill can only be used or purchased if the character has an applicable lammie or loresheet that allowsit. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
         },
         {
             "id": 207,
@@ -2881,7 +2881,7 @@
             ],
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. The character has Spell Reduction (2) when casting spells (min 1 power required for all spells). This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character has Spell Reduction (2) when casting spells (min 1 power required for all spells). This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it. This will not work with the Iron Will spell (See Spell Reduction entry in the Definitions and Glossary section)."
         },
         {
             "id": 208,
@@ -2977,7 +2977,7 @@
             "tier": 4,
             "restricted": false,
             "priority": 1,
-            "description": "<span class=\"updated\">Requirements to use: Lammie or Loresheet. A creature with the Toughen Body Skill can not have a location reduced to below 0 (zero) unless is due to an Enchanted Damage type, Harm, Magebolt, Smite, Fatal or Artefact. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it.</span>"
+            "description": "<span class=\"updated\"><b>Requirements to use: Lammie or Loresheet.</b><br/> A creature with the Toughen Body Skill can not have a location reduced to below 0 (zero) unless is due to an Enchanted Damage type, Harm, Magebolt, Smite, Fatal or Artefact. This skill can only be used or purchased if the character has an applicable lammie or loresheet that allows it.</span>"
         },
         {
             "id": 215,
@@ -3134,7 +3134,7 @@
             "tier": 1,
             "restricted": false,
             "priority": 1,
-            "description": "Requirements to use: Lammie or Loresheet. Any non-magical Venom affecting the character can be purged with a Purge Poison effect rather than the cure requirements on the inside of the Lammie."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> Any non-magical Venom affecting the character can be purged with a Purge Poison effect rather than the cure requirements on the inside of the Lammie."
         },
         {
             "id": 227,
@@ -3146,7 +3146,7 @@
             "tier": 5,
             "restricted": false,
             "priority": 6,
-            "description": "Requirements to use: Lammie or Loresheet. The character will gain the Voidportal loresheet. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
+            "description": "<b>Requirements to use: Lammie or Loresheet.</b><br/> The character will gain the Voidportal loresheet. Loresheets for this skill are available for download and print from The Lorien Trust Website (see Loresheets)."
         },
         {
             "id": 228,
@@ -3332,7 +3332,7 @@
             "list": [
                 "bank"
             ],
-            "tier": null,
+            "tier": 2,
             "prereq": [
                 "242"
             ],
