@@ -272,7 +272,6 @@
         {
             "name": "Light Armour Use",
             "section":"Armour Skills",
-            "grouped": "Armour Use",
             "linked":[
                 "Medium Armour Use",
                 "Heavy Armour Use"
@@ -287,7 +286,6 @@
         {
             "name": "Medium Armour Use",
             "section":"Armour Skills",
-            "grouped": "Armour Use",
             "linked":[
                 "Light Armour Use",
                 "Heavy Armour Use"
@@ -302,7 +300,6 @@
         {
             "name": "Heavy Armour Use",
             "section":"Armour Skills",
-            "grouped": "Armour Use",
             "linked":[
                 "Light Armour Use",
                 "Medium Armour Use"
