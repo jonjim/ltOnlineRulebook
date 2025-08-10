@@ -44,6 +44,9 @@
             "linked": [
                 "Healing 2"
             ],
+            "grants": {
+                "power": 4
+            },
             "order": 0,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -57,6 +60,9 @@
                 "Incantation 2",
                 "Spellcasting 2"
             ],
+            "grants": {
+                "power": 12
+            },
             "order": 0,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -68,6 +74,9 @@
             "linked": [
                 "Incantation 2"
             ],
+            "grants": {
+                "power": 4
+            },
             "order": 1,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -81,6 +90,9 @@
                 "Healing 2",
                 "Spellcasting 2"
             ],
+            "grants": {
+                "power": 12
+            },
             "order": 1,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -92,6 +104,9 @@
             "linked":[
                 "Spellcasting 2"
             ],
+            "grants": {
+                "power": 4
+            },
             "order": 2,
             "cost": 4,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -105,6 +120,9 @@
                 "Incantation 2",
                 "Healing 2"
             ],
+            "grants": {
+                "power": 12
+            },
             "order": 2,
             "cost": 8,
             "description": "<b>Each of these skills grants you the ability to cast 1st level effects from the given list and grants you +4 base Spell Power per day.</b> Any combination of these magic types is permitted.<br/><br/><b>SPELLCASTING, INCANTATION, CORRUPTION OR HEALING 2</b> (8 POINTS) <br/><b>Each of these skills grants you the ability to cast 1st and 2nd level effects from the given list and grants you +12 base Spell Power per day. You cannot have more than one magic skill at level 2 or above.</b> Any combination of these magic types is permitted."
@@ -161,6 +179,9 @@
                 "+ Base Power 12",
                 "+ Base Power 16"
             ],
+            "grants": {
+                "power": 4
+            },
             "order": 5,
             "cost": 2,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
@@ -174,6 +195,9 @@
                 "+ Base Power 12",
                 "+ Base Power 16"
             ],
+            "grants": {
+                "power": 8
+            },
             "order": 5,
             "cost": 4,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
@@ -187,6 +211,9 @@
                 "+ Base Power 8",
                 "+ Base Power 16"
             ],
+            "grants": {
+                "power": 12
+            },
             "order": 5,
             "cost": 6,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
@@ -200,6 +227,9 @@
                 "+ Base Power 8",
                 "+ Base Power 12"
             ],
+            "grants": {
+                "power": 16
+            },
             "order": 5,
             "cost": 8,
             "description": "<b>Each level of the + Base Power skill grants +4 base spell Power.</b> This increased allocation counts as your starting value for the purposes of the Rule of Double. <span class=\"updated\"> This skill does not require the character to purchase any kind of casting ability (Incantation etc.).</span>"
@@ -218,6 +248,9 @@
             "linked":[
                 "Body Development 2"
             ],
+            "grants": {
+                "lhv": 1
+            },
             "order": 1,
             "cost": 4,
             "description": "<b><u>Body Development 1</u></b> <b>Characters with this skill have 2 Base LHV</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1..<br /> <b><u>Body Development 2</u></b> <b>Characters with this skill have 3 Base LHV.</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1."
@@ -229,6 +262,9 @@
             "linked":[
                 "Body Development 1"
             ],
+            "grants": {
+                "lhv": 2
+            },
             "order": 1,
             "cost": 8,
             "description": "<b><u>Body Development 1</u></b> <b>Characters with this skill have 2 Base LHV</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1..<br /> <b><u>Body Development 2</u></b> <b>Characters with this skill have 3 Base LHV.</b> (See Combat, Body Locations). Body Development 2 cannot be combined with Body Development 1."
@@ -241,6 +277,9 @@
                 "Medium Armour Use",
                 "Heavy Armour Use"
             ],
+            "grants": {
+                "av": 1
+            },
             "order": 2,
             "cost": 2,
             "description": "<b>Light Armour has <span class=\"updated\">a base AV of 1.</span></b> Light Armour is any flexible material that is either thick enough or tough enough to resist a blow. Thin leather, heavily quilted or padded material and skinned furs are examples of Light Armour. With this skill, you gain the ability to wear and repair Light Armour."
@@ -253,6 +292,9 @@
                 "Light Armour Use",
                 "Heavy Armour Use"
             ],
+            "grants": {
+                "av": 2
+            },
             "order": 3,
             "cost": 3,
             "description": "<b>Medium armour has <span class=\"updated\">a base AV of 2.</span></b> Medium armour is either semi-rigid material or material that would normally be light armour with rigid supports or rigid additions over at least 50% of the surface. Thick leather and plated leather are examples of medium armour. With this skill, you gain the ability to wear and repair light or medium armour. A character wearing Medium Armour cannot cast Ranged effects."
@@ -265,6 +307,9 @@
                 "Light Armour Use",
                 "Medium Armour Use"
             ],
+            "grants": {
+                "av": 3
+            },
             "order": 4,
             "cost": 4,
             "description": "<b>Heavy armour has <span class=\"updated\">a base AV of 3.</span></b> Heavy armour is either completely rigid, made 100% from metal (or a convincing representation of metal) or light armour with rigid material covering at least 90% of the surface. Chain or plate mail and cuirboilli are examples of heavy armour. With this skill, you gain the ability to repair and wear light, medium or heavy armour. A character wearing Heavy Armour cannot cast Ranged or Mass effects."
